@@ -1,10 +1,10 @@
 # Customer Behavior Analysis
 
-A data analytics project that explores customer shopping behavior using **Python, MySQL/SQL, and Power BI**. The project follows an end-to-end workflow: loading and cleaning customer data, preparing it for analysis, answering business questions with SQL, and presenting key insights through an interactive Power BI dashboard.
+A data analytics project that explores customer shopping behavior using **Python, SQL, and Power BI**. The project follows an end-to-end workflow: loading and cleaning customer data, preparing it for analysis, answering business questions with SQL, and presenting key insights through an interactive Power BI dashboard.
 
 ## Project Overview
 
-The goal of this project is to better understand customer purchasing behavior and identify patterns related to:
+The goal of this project is to understand customer purchasing behavior better and identify patterns related to:
 
 - Customer demographics
 - Subscription status
